@@ -1,6 +1,5 @@
-# Projet ACP sur les Données sur les Nutriments
 
-Bienvenue dans le projet d'Analyse en Composantes Principales (ACP) sur les Données sur les Nutriments ! L'objectif de ce projet est d'explorer et d'analyser les données nutritionnelles provenant de la base de données nationale des nutriments de l'USDA. Nous utiliserons l'ACP pour étudier la structure des données, identifier les relations entre les différents nutriments et réduire la dimensionnalité des données.
+Bienvenue dans le projet d'Analyse en Composantes Principales (ACP) sur les Données nationale des nutriments de l'USDA ! L'objectif de ce projet est d'explorer et d'analyser les données nutritionnelles provenant de la base de données nationale des nutriments de l'USDA. Nous utiliserons l'ACP pour étudier la structure des données, identifier les relations entre les différents nutriments et réduire la dimensionnalité des données.
 
 ## Source des données
 

@@ -22,5 +22,5 @@ Les données contenues dans ce référentiel sont organisées de manière pratiq
 
 Nous encourageons vivement les contributions à ce projet. Si vous souhaitez ajouter des fonctionnalités d'analyse supplémentaires, proposer des visualisations ou partager des idées pour améliorer l'interprétation des résultats de l'ACP, veuillez soumettre une demande d'extraction (pull request). Votre contribution est précieuse pour aider la communauté à mieux comprendre les relations entre les nutriments et à prendre des décisions éclairées en matière de nutrition.
 
-## Contribution
+## Auteur
 Goua Beedi
